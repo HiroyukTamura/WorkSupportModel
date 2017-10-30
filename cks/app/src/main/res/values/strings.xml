@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">神奈川駐輪場検索。</string>
+    <string name="title_activity_maps">神奈川駐輪場検索。</string>
+    <string name="contentdescription">画像</string>
+    <string name="select">select</string>
+    <string name="search">search</string>
+    <string name="backbtn">backbtn</string>
+    <string name="legend">legend</string>
+</resources>

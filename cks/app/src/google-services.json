@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "904835333649",
+    "project_id": "churinkanagawa2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904835333649:android:33e1af89345e76cc",
+        "android_client_info": {
+          "package_name": "com.cks.hiroyuki2.cks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2_9LjtyJ4fpt1SmY4RSPt04U1m3yG1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-75501225-5"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
